@@ -1,8 +1,9 @@
 # python-text-splitter
+*Python script to split a really big text file to multiple files by lines*
 
-Python script to split a really big text file to multiple files by lines. If you need to upload a dataset that is so big in size, why don't you just *split it* into multiple files and join them later in the cloud?
+If you need to upload a dataset that is so big in size to GitHub, they won't allow you. So, why don't you just *split it* into multiple files and join them later in the cloud?
 
-This script are built with **Python 2.7**, on **Windows** environment, on **.TXT** file. Other than that, haven't been tested yet.
+This script is built with **Python 2.7**, on **Windows** environment, on **.TXT** file. Other than that, haven't been tested yet.
 
 You need only the **complete path** of the file, and this script will do the job.
 This script works based on lines. And splitting is based on Github upload limit.

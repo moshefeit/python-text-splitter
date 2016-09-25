@@ -17,12 +17,12 @@ Say:
 555555
 ```
 
-111111 → written to file1
-222222 → written to file2
-333333 → written to file3
-and so on...
+* 111111 → written to file1
+* 222222 → written to file2
+* 333333 → written to file3
+* and so on...
 
-Just download or copy the code from `Main.py`. And open up command prompt:
+Just download or copy the code from `Main.py` and store it yourself. Open up command prompt:
 
 1. `cd path/to/main.py`
 2. `python main.py`

@@ -27,3 +27,6 @@ Just download or copy the code from `Main.py` and store it yourself. Open up com
 
 1. `cd path/to/main.py`
 2. `python main.py`
+
+
+***ps:* Suggestions are welcome**

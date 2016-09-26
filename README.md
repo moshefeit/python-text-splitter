@@ -1,4 +1,4 @@
-# python-text-splitter
+# Python Dataset Text Splitter
 *Python script to split a really big text file/datasets to multiple files by lines*
 
 Working in Databricks? Want to upload it but exceed the size limit? Want to store it somewhere else so you won't need to re-upload it again (just in case)? If you need to upload a dataset that is so big in size to GitHub, **they won't allow you**. So, why don't you just *split it* into multiple files and join them later in the cloud?
